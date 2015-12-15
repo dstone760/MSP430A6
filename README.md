@@ -1,6 +1,4 @@
-This is for the MSP430G2553.
-
-	The system is supposed to display numbers from 0 to 999 on the bubble display. The user is supposed to press the interrupt button when theres a power of ten, a prime number, or a multiple of 10. When the user gets all three, the user has won. Lights and sounds go off, there is much rejoicing, etc.
+	This is for the MSP430G2553. The system is supposed to display numbers from 0 to 999 on the bubble display. The user is supposed to press the interrupt button when theres a power of ten, a prime number, or a multiple of 10. When the user gets all three, the user has won. Lights and sounds go off, there is much rejoicing, etc.
 
 	Software menu:
 		Seven commands:
